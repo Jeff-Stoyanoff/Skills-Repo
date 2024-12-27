@@ -1,0 +1,26 @@
+Pandas-Challenge Analysis:
+
+The analysis predictably showed a wide range on student performance as regards passing the courses covered.  But the analysis also clearly showed
+that schools with larger student population and district schools performed poorly when compared to charter schools and schools that were smaller in size
+
+Most surprisingly, per student spending did not correlate to student performance at all.  In fact, a reverse correlation appeared to be the case with
+schools possessing lower per student spending actually performing better than schools that spend more money per student on average.  This, to me, would
+absolutely be THE seminal finding in the analysis as great attention is given to budgetary concerns as regards education.  This finding would at least 
+suggest that perhaps greater performance is more likely to be found in other types of educational interventions.
+
+Just for context, the top five schools in spending per student were district schools, while the bottom five in spending per student were charter schools.  
+The top five schools in percentage of students passing both reading and math were charter schools while the bottom five in the same metric were district
+schools. Size shares heavy comorbidity here as well with larger schools performing more poorly despite spending more per student in almost all cases,
+while medium and small schools performed on par with each other both outdistancing their larger counterparts in student performance.  In
+fact, it's not a stretch to conclude that size might be the determining factor with the reality being that smaller classes might yield better results
+independent of spending being the central takeaway from the data.  Still, the performance of charter schools against district schools is a powerful 
+determinitive factor as well.
+
+A troubling finding could be found in the lack of any improvement in average reading and math scores throughout the years in school.  At each school, the
+average performance of 9th graders did not differ at anything close to a meaningful level than students in any other year.  This would dispel the notion
+that students were developing static skills that would enhance their ability to assimilate new material at a higher level than in years previous.  In short,
+students do not appear to be developing into better students as they go through school.  There is no drop off of note, but no improvement either.  Only 8
+of the 15 schools showed any improvement over the four years at all in terms of percentage passing, while fully 7 schools saw a decrease in passing percentage.
+Moreover, the classification of charter or district was notable but hardly significant.  Only three of the top 5 schools that showed the most improvement
+(still minimal) were charter schools, but four of the bottom five were district schools, though again, the drop off was not significant.  The lack of improvement
+overall is the more telling trend.
